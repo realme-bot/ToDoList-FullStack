@@ -1,0 +1,68 @@
+[
+    {
+        "username": "test",
+        "password": "123",
+        "tasks": [
+            {
+                "id": 1,
+                "title": "Buy milk",
+                "description": "from store"
+            },
+            {
+                "id": 2,
+                "title": "Study",
+                "description": "Flask project"
+            }
+        ]
+    },
+    {
+        "username": "",
+        "password": "",
+        "tasks": []
+    },
+    {
+        "username": "abc",
+        "password": "123",
+        "tasks": [
+            {
+                "id": 1,
+                "title": "1",
+                "desc": "1",
+                "completed": false
+            },
+            {
+                "id": 2,
+                "title": "Task1",
+                "desc": "This is my first Task",
+                "completed": false
+            }
+        ]
+    },
+    {
+        "username": "farhan",
+        "password": "1234",
+        "tasks": [
+            {
+                "id": 1,
+                "title": "Task1",
+                "desc": "Farhan's First Task",
+                "completed": false
+            }
+        ]
+    },
+    {
+        "username": "abd",
+        "password": "abd",
+        "tasks": []
+    },
+    {
+        "username": "xyz",
+        "password": "xyz",
+        "tasks": []
+    },
+    {
+        "username": "krishna",
+        "password": "123",
+        "tasks": []
+    }
+]
