@@ -16,8 +16,9 @@ The app supports **CRUD operations** (Create, Read, Update, Delete) and is built
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
+```
 TODOLIST
 │
 ├── .next
@@ -25,10 +26,8 @@ TODOLIST
 ├── app
 │   ├── login
 │   │   └── page.js
-│   │
 │   ├── register
 │   │   └── page.js
-│   │
 │   ├── favicon.ico
 │   ├── globals.css
 │   ├── layout.js
@@ -40,6 +39,7 @@ TODOLIST
 │   ├── app.py
 │   ├── data.json
 │   └── requirements.txt
+```
 
 
 
